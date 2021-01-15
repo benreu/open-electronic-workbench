@@ -1,0 +1,10 @@
+This is an attempt at software to calculate various electronic formulas.
+Mostly, the reason for existence is that I figure out this info, and then forget it and
+figure it out again in the next year and the next... As I find the time or need,
+I will add more features.
+
+Pull requests are welcome.
+
+To run this software (Linux only), run the run.sh file.
+
+Most sane Linux distros will have Python and Gtk installed, which is all that is required.
